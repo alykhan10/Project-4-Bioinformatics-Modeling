@@ -1,6 +1,6 @@
-# Project #5: Machine Learning
-# Engineering a Classification Workflow for Tablets to Interpret Stylus Writing
+# Project #4: Bioinformatics Modeling
+# Performing In-Silico Protein Sequencing for SARS-COV-2 Lineages
 
-● Extracted aspect ratio of handwriting data after normalizing the timestamp, xy-positions, and pressure of the stylus           
-● Partitioned input space of predictor variables into a categorical array using k-Nearest Neighbor model in MATLAB          
-● Applied a statistical function on the transformed datastore to make predictions with a mis-classification rate of 0.3%           
+● Performed multiple sequence alignment of Omicron, Delta, and Original SARS-COV-2 variants using NCBI data               
+● Retrieved 3D x-ray crystallography structures of lineages for homology macromolecular modelling via ExPASy               
+● Computed Gibbs Free Energy for ACE3 receptor using HDOCK to classify infectiousness of COVID-19 variants                        
